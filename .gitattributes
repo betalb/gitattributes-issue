@@ -1,0 +1,2 @@
+# Set the default behavior, all scripts must have LF character only, as they will be provisioned to unix box 
+* text eol=crlf
